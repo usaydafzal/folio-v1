@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   description:
     "Frontend Engineer and Product Designer, currently at Crown Branding Agency. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
   generator: "Next.js",
-  applicationName: "Victor Williams",
+  applicationName: "Usaid Afzal",
   keywords: [
     "freelance",
     "developer",
