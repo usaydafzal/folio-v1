@@ -32,28 +32,28 @@ export const devProjects = [
     image: require(".//../../public/projects/skywatch-new.webp"),
     available: true,
   },
-  {
-    id: 2,
-    name: "Reva University",
-    description:
-      "An image generator website that allows users to generate, combine, and download images.",
-    technologies: ["React", "CSS", "Merge Images"],
-    github: "https://github.com/victorcodess/alpaca-image-generator",
-    demo: "http://alpaca-image-generator-beta.vercel.app",
-    image: require(".//../../public/projects/alpaca-new.webp"),
-    available: true,
-  },
-  {
-    id: 3,
-    name: "Link Shortener",
-    description:
-      "A website that reduces the length of your URL using Bit.ly's API",
-    technologies: ["JavaScript", "CSS", "Bit.ly's API"],
-    github: "https://github.com/victorcodess/url-shortener",
-    demo: "https://url-shortener-nine-delta.vercel.app",
-    image: require(".//../../public/projects/shortener-new.webp"),
-    available: true,
-  },
+  //{
+    //id: 2,
+    //name: "Reva University",
+    //description:
+      //"An image generator website that allows users to generate, combine, and download images.",
+    //technologies: ["React", "CSS", "Merge Images"],
+    //github: "https://github.com/victorcodess/alpaca-image-generator",
+    //demo: "http://alpaca-image-generator-beta.vercel.app",
+    //image: require(".//../../public/projects/alpaca-new.webp"),
+    //available: true,
+  //},
+  //{
+    //id: 3,
+    //name: "Link Shortener",
+    //description:
+      //"A website that reduces the length of your URL using Bit.ly's API",
+    //technologies: ["JavaScript", "CSS", "Bit.ly's API"],
+    //github: "https://github.com/victorcodess/url-shortener",
+    //demo: "https://url-shortener-nine-delta.vercel.app",
+    //image: require(".//../../public/projects/shortener-new.webp"),
+    //available: true,
+  //},
   // {
   //   id: 4,
   //   name: "Carpooling Service",
