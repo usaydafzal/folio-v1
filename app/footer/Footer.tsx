@@ -17,12 +17,12 @@ const Footer = () => {
             className={"m-0 p-0"}
           />
           <Link
-            href="https://github.com/victorcodess"
+            href="https://www.linkedin.com/in/noumqn"
             target="_blank"
             aria-label="Victor's GitHub Profile"
           >
             <span className="underline underline-offset-2 hover:no-underline">
-              <AnimatedBody text={"Victor Williams"} className={"m-0 p-0"} />
+              <AnimatedBody text={"Nouman"} className={"m-0 p-0"} />
             </span>{" "}
           </Link>
         </div>
