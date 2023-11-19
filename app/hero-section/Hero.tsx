@@ -90,7 +90,7 @@ const Hero = () => {
               alt="Victor's headshot"
               data-blobity-tooltip="Logo"
               data-blobity-invert="false"
-              className=" w-[120px] rounded-[12px] grayscale hover:grayscale-0 md:w-[160px] md:rounded-[24px] lg:w-[196px]"
+              className=" w-[120px] rounded-[12px] sepia hover:sepia-0 md:w-[160px] md:rounded-[24px] lg:w-[196px]"
             />
           </motion.div>
         </div>
