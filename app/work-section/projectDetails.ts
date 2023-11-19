@@ -15,7 +15,7 @@ export const devProjects = [
     name: "Starbucks",
     description:
       "Starbucks is a coffee shop",
-    technologies: ["Store awareness", "Offer campaign", "Reel Creation"],
+    technologies: ["Shoots", "Campaign", "Reel Creation"],
     github: "https://www.instagram.com/reel/CrYX5ustwAt/?igshid=ZWI2YzEzYmMxYg==",
     demo: "https://www.instagram.com/reel/CrYX5ustwAt/?igshid=ZWI2YzEzYmMxYg==",
     image: require(".//../../public/projects/flixify.png"),
@@ -23,7 +23,7 @@ export const devProjects = [
   },
   {
     id: 1,
-    name: "SkyWatch",
+    name: "De Zurich",
     description:
       "SkyWatch is a convenient and user-friendly tool that allows you to quickly and easily check the current weather and forecast for the next 2 days in any city.",
     technologies: ["React", "CSS", "Chart.js"],
@@ -34,7 +34,7 @@ export const devProjects = [
   },
   {
     id: 2,
-    name: "Alpaca Image Generator",
+    name: "Reva University",
     description:
       "An image generator website that allows users to generate, combine, and download images.",
     technologies: ["React", "CSS", "Merge Images"],
