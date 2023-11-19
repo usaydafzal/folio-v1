@@ -34,19 +34,19 @@ const Hero = () => {
 
         <div className="flex gap-10 text-[#e4ded7] sm:gap-12 md:gap-14 lg:gap-14">
           <Link
-            href="https://github.com/victorcodess"
+            href="https://instagram.com/usaidafzal.02?igshid=OGQ5ZDc2ODk2ZA=="
             target="_blank"
-            aria-label="View GitHub Profile"
+            aria-label="View Instagram Profile"
           >
             <motion.p
               className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
               variants={bodyAnimation}
             >
-              GH
+              IG
             </motion.p>
           </Link>
           <Link
-            href="https://www.linkedin.com/in/victor-williams-chukwudi/"
+            href="https://www.linkedin.com/in/usaid-afzal-02a83727a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/"
             target="_blank"
             aria-label="View LinkedIn Profile"
           >
@@ -58,7 +58,7 @@ const Hero = () => {
             </motion.p>
           </Link>
           <Link
-            href="https://twitter.com/victorwill__"
+            href="https://x.com/usaid_soleh?t=B6707eF7QA1FFhVXBZ82aw&s=09"
             target="_blank"
             aria-label="View Twitter Profile"
           >
