@@ -106,7 +106,7 @@ const Hero = () => {
           variants={bodyAnimation}
         >
           <p className="z-50 text-center text-[16px] font-medium text-[#e4ded7] md:text-[20px] lg:text-left">
-            Frontend Engineer and Product Designer, currently available for work.
+            Brands and creators collaborate with our dedicated team of experts to build winning creative strategy—backed by research, first-party data, and industry benchmarks.
             {/* <Link
               href="https://crownbrandingagency.com/ "
               target="_blank"
