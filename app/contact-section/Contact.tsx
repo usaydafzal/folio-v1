@@ -83,7 +83,7 @@ const Contact = () => {
               />
             </Link>
             <Link
-              href="https://twitter.com/victorwill__"
+              href="https://x.com/usaid_soleh?t=B6707eF7QA1FFhVXBZ82aw&s=09"
               target="_blank"
               aria-label="View Twitter Profile"
             >
@@ -97,7 +97,7 @@ const Contact = () => {
               />
             </Link>
             <Link
-              href="https://www.instagram.com/victorwill__/"
+              href="https://www.instagram.com/usaidafzal.02"
               target="_blank"
               aria-label="View Instagram Profile"
             >
@@ -111,7 +111,7 @@ const Contact = () => {
               />
             </Link>
             <Link
-              href="https://blog.victorwilliams.me/"
+              href="https://google.com/"
               target="_blank"
               aria-label="View Hashnode Profile"
             >
