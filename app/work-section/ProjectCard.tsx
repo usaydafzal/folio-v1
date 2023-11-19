@@ -1,6 +1,6 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLink } from "@fortawesome/free-solid-svg-icons";
-import { faGithub } from "@fortawesome/free-brands-svg-icons";
+import { faInstagram } from "@fortawesome/free-brands-svg-icons";
 import { ProjectProps } from "./projectDetails";
 import Link from "next/link";
 import Image from "next/image";
@@ -54,7 +54,7 @@ const ProjectCard = ({
               aria-label="Open GitHub Repository"
             >
               <FontAwesomeIcon
-                icon={faGithub}
+                icon={faInstagram}
                 className=" w-[20px] rounded-full bg-white p-5 text-[20px] md:w-[25px] md:text-[24px] lg:w-[30px] lg:text-[28px]"
                 data-blobity
                 data-blobity-radius="38"
@@ -84,7 +84,7 @@ const ProjectCard = ({
               aria-label="Open GitHub Repository"
             >
               <FontAwesomeIcon
-                icon={faGithub}
+                icon={faInstagram}
                 className=" w-[20px]  rounded-full bg-white p-5 text-[20px] md:w-[25px] md:text-[24px] lg:w-[30px] lg:text-[28px]"
                 data-blobity
                 data-blobity-radius="38"
