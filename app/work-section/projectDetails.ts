@@ -14,7 +14,7 @@ export const devProjects = [
     id: 0,
     name: "Starbucks",
     description:
-      "Collaborated with Starbucks to create an engaging and informative Instagram reel that spotlighted their store, products, and overall ambiance. The goal was to increase awareness, generate interest, and showcase the new offerings available at their location.",
+      "Created an engaging and informative Instagram reel that spotlighted their store, products, and overall ambiance. The goal was to increase awareness, generate interest, and showcase the new offerings available at their location.",
     technologies: ["Content", "Visibility", "Engagement"],
     github: "https://www.instagram.com/reel/CrYX5ustwAt/?igshid=ZWI2YzEzYmMxYg==",
     demo: "https://www.instagram.com/reel/CrYX5ustwAt/?igshid=ZWI2YzEzYmMxYg==",
@@ -25,8 +25,8 @@ export const devProjects = [
     id: 1,
     name: "De Zürich",
     description:
-      "The collaborative project with De Zurich resulted in a compelling video presentation that effectively highlighted the restaurant's ambiance, culinary offerings, and unique features. By showcasing the vibrant dining experience, the video served as a visual invitation for viewers to indulge in the distinctive delights offered by De Zurich.",
-    technologies: ["React", "CSS", "Chart.js"],
+      "Created a video presentation that effectively highlighted the restaurant's ambiance, culinary offerings, and unique features. By showcasing the vibrant dining experience, the video served as a visual invitation for viewers to indulge in the distinctive delights offered by De Zurich.",
+    technologies: ["Visual", "Brand", "Recognition"],
     github: "https://www.instagram.com/reel/Cv6R6E9JmUm/?igshid=NTc4MTIwNjQ2YQ==",
     demo: "https://www.instagram.com/reel/Cv6R6E9JmUm/?igshid=NTc4MTIwNjQ2YQ==",
     image: require(".//../../public/projects/skywatch-new.webp"),
