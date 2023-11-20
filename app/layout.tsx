@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Sea Socials — Marketing Co.",
     description:
-      "Frontend Engineer and Product Designer, currently at Crown Branding Agency. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
+      "Spark the Buzz, Seal the Deal: Sea Socials,Your Brand's Best Appeal!",
     url: "https://www.seasocials.live/",
     siteName: "www.seasocials.live",
     images: [
