@@ -1,6 +1,6 @@
 "use client";
 import Link from "next/link";
-import { faFilePdf } from "@fortawesome/free-solid-svg-icons";
+import { faMessage } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const NavBar = () => {
@@ -28,7 +28,7 @@ const NavBar = () => {
         data-blobity-magnetic="false"
       >
         <FontAwesomeIcon
-          icon={faFilePdf}
+          icon={faMessage}
           className="py-2 px-2 text-[16px] sm:px-4 md:py-1"
         />
       </Link>
