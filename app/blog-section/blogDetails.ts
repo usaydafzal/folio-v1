@@ -8,10 +8,10 @@ export type blogProps = {
 
 export const blogDetails = [
   {
-    title: "Reflecting on My 18th Year: A Personal Review of 2022",
+    title: "Unlocking the Power of Influencer Partnerships: Creating Impactful Brand Collaborations",
     image:
       "https://cdn.hashnode.com/res/hashnode/image/upload/v1672494063925/1ee2925f-e529-4a8b-9dd7-6eea996a34eb.png",
-    date: "DEC 2022",
+    date: "COMING SOON",
     url: "https://www.instagram.com/reel/Cv6R6E9JmUm/?igshid=NTc4MTIwNjQ2YQ==",
     available: true,
   },
