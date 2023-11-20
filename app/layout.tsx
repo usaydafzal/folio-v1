@@ -11,9 +11,9 @@ const syne = Syne({
 });
 
 export const metadata: Metadata = {
-  title: "Sea Socials — Frontend Engineer",
+  title: "Sea Socials — Marketing Co.",
   description:
-    "Frontend Engineer and Product Designer, currently at Crown Branding Agency. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
+    "Spark the Buzz, Seal the Deal: Sea Socials,Your Brand's Best Appeal!",
   generator: "Next.js",
   applicationName: "Sea Socials",
   keywords: [
@@ -57,7 +57,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Sea Socials — Marketing Co.",
     description:
-      "Frontend Engineer and Product Designer, currently at Crown Branding Agency. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
+      "Spark the Buzz, Seal the Deal: Sea Socials,Your Brand's Best Appeal!",
     creator: "victorwill__",
     creatorId: "1243720976552144897",
     images: [
