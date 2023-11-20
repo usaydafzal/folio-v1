@@ -123,7 +123,7 @@ const Hero = () => {
           variants={bodyAnimation}
         >
           <p className="text-right text-[16px] font-semibold text-[#e4ded7] md:text-[20px]">
-            Focused on Brand marketing and content creators, based in Bangalore, India.
+            Focused on Brand marketing and content creators, based in Bangalore.
           </p>
         </motion.div>
       </div>
