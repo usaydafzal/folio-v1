@@ -25,7 +25,7 @@ export const devProjects = [
     id: 1,
     name: "De Zürich",
     description:
-      "Created a video presentation that effectively highlighted the restaurant's ambiance, culinary offerings, and unique features. By showcasing the vibrant dining experience, the video served as a visual invitation for viewers to indulge in the distinctive delights offered by De Zurich.",
+      "Created a video presentation that effectively highlighted the restaurant's ambiance, culinary offerings, and unique features. The video served as a visual invitation for viewers to indulge in the distinctive delights offered by De Zurich.",
     technologies: ["Visual", "Brand", "Recognition"],
     github: "https://www.instagram.com/reel/Cv6R6E9JmUm/?igshid=NTc4MTIwNjQ2YQ==",
     demo: "https://www.instagram.com/reel/Cv6R6E9JmUm/?igshid=NTc4MTIwNjQ2YQ==",
