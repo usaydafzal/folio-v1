@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     siteName: "www.seasocials.live",
     images: [
       {
-        url: "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
+        url: "https://raw.githubusercontent.com/usaydafzal/folio-v1/c65aa0856b29f7c643c396f9bfc37b0eaf49db3a/public/Sea%20Socials.png",
         width: 1200,
         height: 630,
         alt: "Victor Williams — Frontend Engineer",
