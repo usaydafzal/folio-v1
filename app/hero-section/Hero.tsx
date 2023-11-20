@@ -19,7 +19,7 @@ const Hero = () => {
       <div className="absolute top-10 flex justify-between sm:w-[90%] lg:max-w-[1440px]">
         <div>
           <Link
-            href="https://google.com"
+            href="https://j83fpyx3wwk.typeform.com/to/UaQgyTYc"
             target="_blank"
             aria-label="COLLABORATE"
           >
