@@ -23,8 +23,8 @@ const NavBar = () => {
         href="https://j83fpyx3wwk.typeform.com/to/UaQgyTYc"
         target="_blank"
         className="flex"
-        aria-label="Open my resume"
-        data-blobity-tooltip="View Resume"
+        aria-label="Work with us"
+        data-blobity-tooltip="Work with us"
         data-blobity-magnetic="false"
       >
         <FontAwesomeIcon
