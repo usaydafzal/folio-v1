@@ -34,7 +34,7 @@ const Hero = () => {
 
         <div className="flex gap-10 text-[#e4ded7] sm:gap-12 md:gap-14 lg:gap-14">
           <Link
-            href="https://instagram.com/usaidafzal.02?igshid=OGQ5ZDc2ODk2ZA=="
+            href="https://www.instagram.com/sea_socials/"
             target="_blank"
             aria-label="View Instagram Profile"
           >
