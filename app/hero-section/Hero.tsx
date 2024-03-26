@@ -46,7 +46,7 @@ const Hero = () => {
             </motion.p>
           </Link>
           <Link
-            href="https://www.linkedin.com/in/usaid-afzal-02a83727a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/"
+            href="https://www.linkedin.com/company/seasocials/"
             target="_blank"
             aria-label="View LinkedIn Profile"
           >
